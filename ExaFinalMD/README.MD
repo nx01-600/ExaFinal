@@ -14,6 +14,7 @@
 ![](binario6.png)
 
 Así unimos los 2 archivos y sus respectivas funciones llamadas
+
 ![](binario1.png)
 
 Se le pregunta al usuario que función desea ejecutar
